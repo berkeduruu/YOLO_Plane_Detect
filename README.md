@@ -8,8 +8,8 @@ Example competition footage with YOLO target lock-on on fixed-wing aircraft:
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/berkeduruu/YOLO_Plane_Detect/blob/main/assets/23_temmuz_kilitlenme.mp4"><img src="assets/23_temmuz_kilitlenme_poster.jpg" alt="YOLO lock-on demo" width="100%"/></a></td>
-    <td width="50%"><a href="https://github.com/berkeduruu/YOLO_Plane_Detect/blob/main/assets/kilitlenme_kisa.mp4"><img src="assets/kilitlenme_kisa_poster.jpg" alt="YOLO lock-on short demo" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/user-attachments/assets/ef8e3192-4cc0-4f32-b6cb-491e925e3b9d"><img src="assets/23_temmuz_kilitlenme_poster.jpg" alt="YOLO lock-on demo" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/user-attachments/assets/ef98dbec-0755-4568-b2a1-4a8455cea856">< alt="YOLO lock-on short demo" width="100%"/></a></td>
   </tr>
 </table>
 
