@@ -1,12 +1,24 @@
-Contributers;
-Berke DURU berkeduruu@gmail.com  
-Tuna ÜNÜVAR unuvartuna00@gmail.com  
-Yiğit AVCIOĞLU
-Yağız YUNGUL
-
 # YOLO Plane Detect v1
 
+<div align="center">
+
+[![Python](https://img.shields.io/badge/python-3.10%2B-3776AB)](https://www.python.org/)
+[![YOLOv11](https://img.shields.io/badge/YOLO-v11-00A6D6)](https://docs.ultralytics.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-5C3EE8)](https://opencv.org/)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue)](LICENSE)
+[![Version](https://img.shields.io/badge/version-v1-orange)](https://github.com/berkeduruu/YOLO_Plane_Detect)
+
 Fixed-wing aircraft detection for the TEKNOFEST Fighting UAV competition, built with custom-trained YOLOv11 models. This repository includes training notebooks, inference scripts, export utilities, and reference results for aerial target detection.
+
+### Contributors
+
+| [Berke DURU](https://github.com/berkeduruu) | Tuna ÜNÜVAR | Yiğit AVCIOĞLU | Yağız YUNGUL |
+|:---:|:---:|:---:|:---:|
+| [berkeduruu@gmail.com](mailto:berkeduruu@gmail.com) | [unuvartuna00@gmail.com](mailto:unuvartuna00@gmail.com) | — | — |
+
+</div>
+
+---
 
 ## Demo — YOLO Lock-On
 
