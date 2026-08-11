@@ -8,8 +8,8 @@ Example competition footage with YOLO target lock-on on fixed-wing aircraft:
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/user-attachments/assets/ef8e3192-4cc0-4f32-b6cb-491e925e3b9d"><img src="assets/23_temmuz_kilitlenme_poster.jpg" alt="YOLO lock-on demo" width="100%"/></a></td>
-    <td width="50%"><a href="https://github.com/user-attachments/assets/ef98dbec-0755-4568-b2a1-4a8455cea856"><img src="assets/kilitlenme_kisa_poster.jpg" alt="YOLO lock-on demo 2"width="100%"/></a></td>
+    <td width="50%"><video src="https://github.com/user-attachments/assets/ef8e3192-4cc0-4f32-b6cb-491e925e3b9d" controls muted playsinline width="100%"></video></td>
+    <td width="50%"><video src="https://github.com/user-attachments/assets/ef98dbec-0755-4568-b2a1-4a8455cea856" controls muted playsinline width="100%"></video></td>
   </tr>
 </table>
 
@@ -112,9 +112,9 @@ In fast-moving aerial scenes, a target can be detected in one frame and missed i
 
 ### Demo
 
-In the clip below, the **blue rectangle** marks the active ROI search area. **Green boxes** are detections. Click the preview to open the video on GitHub (built-in player).
+In the clip below, the **blue rectangle** marks the active ROI search area. **Green boxes** are detections.
 
-<a href="https://github.com/user-attachments/assets/d355c2d1-823e-4994-a910-8ff87155be75"><img src="assets/roi_video_poster.jpg" alt="Dynamic ROI demo" width="100%"/></a>
+<video src="https://github.com/user-attachments/assets/d355c2d1-823e-4994-a910-8ff87155be75" controls muted playsinline width="100%"></video>
 
 ## Ensemble ROI Detection
 
