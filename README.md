@@ -12,7 +12,7 @@ Fixed-wing aircraft detection for the TEKNOFEST Fighting UAV competition, built 
 
 ### Contributors
 
-| [Berke DURU](https://github.com/berkeduruu) | Tuna ÜNÜVAR | Yiğit AVCIOĞLU | Yağız YUNGUL |
+| [Berke DURU](https://github.com/berkeduruu) | [Tuna ÜNÜVAR](https://github.com/tunaunuvar) | Yiğit AVCIOĞLU | Yağız YUNGUL |
 |:---:|:---:|:---:|:---:|
 | [berkeduruu@gmail.com](mailto:berkeduruu@gmail.com) | [unuvartuna00@gmail.com](mailto:unuvartuna00@gmail.com) | — | — |
 
