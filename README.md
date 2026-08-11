@@ -8,10 +8,12 @@ Example competition footage with YOLO target lock-on (kilitlenme) on fixed-wing 
 
 <table>
   <tr>
-    <td width="50%"><video src="assets/23_temmuz_kilitlenme.mp4" controls loop muted autoplay width="100%"></video></td>
-    <td width="50%"><video src="assets/kilitlenme_kısa.mp4" controls loop muted autoplay width="100%"></video></td>
+    <td width="50%"><a href="assets/23_temmuz_kilitlenme.mp4"><img src="assets/23_temmuz_kilitlenme_poster.jpg" alt="YOLO lock-on demo" width="100%"/></a></td>
+    <td width="50%"><a href="assets/kilitlenme_kısa.mp4"><img src="assets/kilitlenme_kısa_poster.jpg" alt="YOLO lock-on short demo" width="100%"/></a></td>
   </tr>
 </table>
+
+> GitHub README does not inline-play `<video>` files from the repo (CSP). Previews above link to the MP4 files in `assets/`.
 
 ## Dataset Access
 
@@ -112,9 +114,9 @@ In fast-moving aerial scenes, a target can be detected in one frame and missed i
 
 ### Demo
 
-In the video below, the **blue rectangle** marks the active ROI search area. **Green boxes** are detections.
+In the video below, the **blue rectangle** marks the active ROI search area. **Green boxes** are detections. **Click the preview to play** on GitHub.
 
-<video src="assets/roi_video.mp4" controls loop muted autoplay width="100%"></video>
+<a href="assets/roi_video.mp4"><img src="assets/roi_video_poster.jpg" alt="Dynamic ROI demo" width="100%"/></a>
 
 ## Ensemble ROI Detection
 
