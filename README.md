@@ -1,3 +1,9 @@
+Contributers;
+Berke DURU berkeduruu@gmail.com  
+Tuna ÜNÜVAR unuvartuna00@gmail.com  
+Yiğit AVCIOĞLU
+Yağız YUNGUL
+
 # YOLO Plane Detect v1
 
 Fixed-wing aircraft detection for the TEKNOFEST Fighting UAV competition, built with custom-trained YOLOv11 models. This repository includes training notebooks, inference scripts, export utilities, and reference results for aerial target detection.
