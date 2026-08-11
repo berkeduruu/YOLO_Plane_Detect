@@ -114,7 +114,7 @@ In fast-moving aerial scenes, a target can be detected in one frame and missed i
 
 In the clip below, the **blue rectangle** marks the active ROI search area. **Green boxes** are detections. Click the preview to open the video on GitHub (built-in player).
 
-<a href="https://github.com/berkeduruu/YOLO_Plane_Detect/blob/main/assets/roi_video.mp4"><img src="assets/roi_video_poster.jpg" alt="Dynamic ROI demo" width="100%"/></a>
+<a href="https://github.com/user-attachments/assets/d355c2d1-823e-4994-a910-8ff87155be75"><img src="assets/roi_video_poster.jpg" alt="Dynamic ROI demo" width="100%"/></a>
 
 ## Ensemble ROI Detection
 
