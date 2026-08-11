@@ -1,0 +1,6 @@
+path: /path/to/dataset_split
+train: train/images
+val: val/images
+nc: 1
+names:
+  - plane

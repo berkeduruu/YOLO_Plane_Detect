@@ -1,0 +1,6 @@
+-r requirements.txt
+
+# ONNX → TensorRT engine pipeline (export_tensorrt_engine.py)
+onnx
+onnxslim
+tensorrt

@@ -11,9 +11,11 @@ Update these paths before running.
 codes/
 ├── inference/          # Model inference scripts
 │   ├── image_inference.py
+│   ├── folder_inference.py
 │   ├── video_detection.py
 │   ├── video_segmentation.py
-│   └── video_dynamic_roi_detection.py
+│   ├── video_dynamic_roi_detection.py
+│   └── video_dynamic_roi_ensemble_detection.py
 ├── export/             # Model export utilities
 │   └── export_tensorrt_engine.py
 ├── train/              # Training notebooks
@@ -29,9 +31,11 @@ codes/
 | Script | Description |
 |--------|-------------|
 | `image_inference.py` | Run a single YOLO prediction on one image. Quick test for model weights and resolution. |
+| `folder_inference.py` | Batch inference on a folder of images; export YOLO label files and optionally save annotated images. |
 | `video_detection.py` | Process a video with bounding-box detection; draw boxes and save annotated output. |
 | `video_segmentation.py` | Process a video with instance segmentation; overlay semi-transparent masks. |
 | `video_dynamic_roi_detection.py` | Video detection with a dynamic ROI that tracks the last known target position to reduce missed detections between consecutive frames (not a throughput optimization). |
+| `video_dynamic_roi_ensemble_detection.py` | Dynamic ROI video detection with dual-model ensemble verification (IoU matching + confidence gating) to reduce false positives. |
 
 ### Export (`export/`)
 
@@ -59,6 +63,7 @@ codes/
 | `YOLO_video.py` | `inference/video_detection.py` |
 | `YOLO_video_seg.py` | `inference/video_segmentation.py` |
 | `YOLO_roi.py` | `inference/video_dynamic_roi_detection.py` |
+| `YOLO_roi_ensemble.py` | `inference/video_dynamic_roi_ensemble_detection.py` |
 | `create_engine.py` | `export/export_tensorrt_engine.py` |
 | `YOLO_merge_videos_dynamic.py` | `video/merge_side_by_side.py` |
 | `Compare_Merge.py` | `video/merge_side_by_side.py` (set `NORMALIZE_RESOLUTION = False`) |

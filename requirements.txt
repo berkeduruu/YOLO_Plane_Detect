@@ -1,0 +1,13 @@
+# Core — also installs torch, torchvision, numpy, scipy, pillow, psutil, polars, ultralytics-thop
+ultralytics
+
+# Used directly by inference scripts
+opencv-python
+tqdm
+
+# Training notebook and dataset yaml
+pyyaml
+
+# Training result charts (models/README.md)
+matplotlib
+pandas
